@@ -35,6 +35,10 @@ nav a {
   text-decoration: none;
   color: #868e96;
 }
+#header a:hover{
+  text-decoration: underline;
+  color: #0056b3;
+}
 
 main{
   margin-top: 20px;
@@ -56,6 +60,8 @@ div.jumbotron {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+
+
 
 footer{
   border-top: 1px solid #ccc;
