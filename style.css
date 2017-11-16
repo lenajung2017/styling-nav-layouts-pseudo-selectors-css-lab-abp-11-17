@@ -40,7 +40,9 @@ nav a:hover{
   color: #0056b3;
 }
 
-#header-ice a:visited
+#header-ice a:hover{
+  text-decoration: underline;
+}
 
 main{
   margin-top: 20px;
